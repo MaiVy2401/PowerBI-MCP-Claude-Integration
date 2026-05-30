@@ -41,20 +41,20 @@ Building the model is only half the job; the real test is extracting value. I as
 
 ### 1. The Automated Data Model
 *The star schema and relationships built entirely by the AI via the MCP connection.*
-![Data Model Configuration](schema.png)
+![Data Model Configuration](image/schema.png)
 
 ### 2. The DAX Measure Library
 *A look at the 44 DAX calculations Claude wrote and neatly organized into folders in the Data pane.*
-![Automated DAX Measures](dax-measures.png)
+![Automated DAX Measures](image/dax-measures.png)
 
 ### 3. AI-Generated Dashboard UI
 *The visual dashboard mockup rendered directly inside the Claude interface, proving the AI correctly interpreted the DAX measures and data distribution.*
-![Dashboard Core KPIs](dashboard-1.png)
-![Dashboard Category Breakdowns](dashboard-2.png)
-![Dashboard Ratings Analysis](dashboard-3.png)
+![Dashboard Core KPIs](image/dashboard-1.png)
+![Dashboard Category Breakdowns](image/dashboard-2.png)
+![Dashboard Ratings Analysis](image/dashboard-3.png)
 
 ### 4. Executing the Analysis
 *The Claude interface executing the database operations and generating the strategic business insights directly from the live Power BI model.*
-![Revenue and Concentration Insights](insights-1.png)
-![AOV and Quality Insights](insights-2.png)
-![Strategic Priority Actions](insights-3.png)
+![Revenue and Concentration Insights](image/insights-1.png)
+![AOV and Quality Insights](image/insights-2.png)
+![Strategic Priority Actions](image/insights-3.png)
